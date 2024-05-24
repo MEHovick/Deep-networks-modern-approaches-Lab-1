@@ -14,3 +14,13 @@
 5) forward - функция прохода "вперед", для вычисления выходов нейронной сети
 6) backprop - функция вычисления градиентов функции ошибки
 7) train - функция обучения
+
+## Полученные результаты
+
+Loss:
+![image](https://github.com/MEHovick/Deep-networks-modern-approaches-Lab-1/assets/52539883/1c6a89eb-a51b-4c00-ab97-35c34588bc55)
+
+
+Accurancy:
+![image](https://github.com/MEHovick/Deep-networks-modern-approaches-Lab-1/assets/52539883/2aa60586-0f8f-4545-bbca-12a5f9aba39e)
+
